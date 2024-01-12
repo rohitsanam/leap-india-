@@ -1,0 +1,12 @@
+feature_engine==1.6.1
+matplotlib==3.7.2
+numpy==1.23.5
+numpy==1.24.4
+pandas==2.0.3
+Pillow==9.5.0
+Pillow==10.1.0
+scikit_learn==1.2.0
+scipy==1.9.3
+seaborn==0.13.0
+statsmodels==0.14.0
+streamlit==1.25.0
